@@ -1,5 +1,3 @@
-
-<br>
 <div align=center>
   <h2>⚡ Stats ⚡</h2>
   <img width=290 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=santoshw03&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
